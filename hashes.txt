@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caricias de mar abierto
+
+This log tracks the cryptographic history and versioning for the song **Caricias de mar abierto** (caricias-de-mar-abierto).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T07:00:35.952938 | `v1` | `16e2c0aee2d8974fd700337801f830416a12855b19bb506b5d0df17868b6d05a` | `50adff42cb2c77a2ab4ccdf110d937096b0ead97674ffa2b0c402060a78ab228` | `2026-06-22_caricias-de-mar-abierto-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
