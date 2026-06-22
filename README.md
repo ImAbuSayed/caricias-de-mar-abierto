@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-de-mar-abierto/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Caricias de mar abierto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-mar-abierto/) |
+| **Get License** | [Official Music Licensing for Caricias de mar abierto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-mar-abierto/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me tienes loco con ese flow de Barcelona
+> Tú eres la reina, la que el club corona
+> Esta noche quiero que seas mi leona
+> Robarme tus besos, a ver quién me perdona
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
